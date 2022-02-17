@@ -17,6 +17,9 @@ CHECK UNDERFITTING:
 * Training set score: 194.29075506663642
 * Test set score: 449.4672498703003
 
+## POSTER
+![Poster_page-0001](https://user-images.githubusercontent.com/71218441/154459563-2f84aec7-e4e0-4559-a0c6-a4482aadfdc9.jpg)
+
 
 ## FUTURE SCOPE	
 * Here we had taken into consideration only two factors i.e., the temperature and rainfall of the districts. There are other factors such as the fertility and type of soil present in the area which would affect the crop yield. On proper analysis we can help find the soil type and fertilizers which can be helpful in maximizing and predicting the crop yield. P.C.A and many Deep Learning techniques can be used on images of the field and crop to detect if they are infected by any disease or the presence of weed, which also affects the quality of the crop, and can be separated from the healthy crops at the earliest possible.
